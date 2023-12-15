@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Rafa Ramdeviu Paya
 Cambio
+=======
+Rafa Ram de Viu Paya
+Cambio cambio3
+>>>>>>> rafa_rama2
